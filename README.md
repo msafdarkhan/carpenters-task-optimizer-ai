@@ -9,3 +9,7 @@ It is a 6 day work week, and carpenter can choose any day for a day off. They ea
 
 
 **The script will generate , in a data frame, the best schedule given all the parameters above.**
+
+!(result)[https://raw.githubusercontent.com/msafdarkhan/carpenters-task-optimizer-ai/main/Screenshot%20(243).png]
+
+!(https://raw.githubusercontent.com/msafdarkhan/carpenters-task-optimizer-ai/main/Screenshot%20(243).png)[result]
